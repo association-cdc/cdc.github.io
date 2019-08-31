@@ -1,2 +1,2 @@
 # cdc.github.io
-Association Confedération Democratique des Coopératives
+Association Confédération Democratique des Coopératives
